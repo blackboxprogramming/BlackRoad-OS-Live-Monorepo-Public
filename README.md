@@ -1,5 +1,19 @@
 # BlackRoad OS -- Monorepo (Public Mirror)
 
+<!-- BLACKROAD:CANON:START -->
+## The Road. Pave Tomorrow.
+
+**We access it all at RoadOS.**  
+**We collaborate with Roadies.**  
+**We code in Road.**
+
+*Integration is Innovation.*
+
+Pick up your Roadies. Discover the BlackRoad together.
+
+[Product names, brand language, and implementation boundaries](BLACKROAD_CANON.md)
+<!-- BLACKROAD:CANON:END -->
+
 This repository is the public-safe mirror of the BlackRoad OS live monorepo.
 
 ## Role

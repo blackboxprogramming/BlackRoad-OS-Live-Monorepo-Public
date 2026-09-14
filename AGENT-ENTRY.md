@@ -1,5 +1,9 @@
 # AGENT ENTRY POINT
 
+<!-- BLACKROAD:CURRENT-NAMING:START -->
+Current product and brand names are defined in [BLACKROAD_CANON.md](BLACKROAD_CANON.md): **RoadOS** for access, **Roadies** for collaboration, **Road** for the language, **Roadie** for the meta-AI, **Routes** for the namespace, and **Ramps** for external connections. This current naming supersedes older product labels below; implementation evidence and repository procedures still apply.
+<!-- BLACKROAD:CURRENT-NAMING:END -->
+
 You are working on BlackRoad OS. Read this first. Do not ask questions — just build.
 
 ## What This Is
